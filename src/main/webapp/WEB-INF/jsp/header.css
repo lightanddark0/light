@@ -1,0 +1,30 @@
+@charset "UTF-8";
+* {
+	box-sizing: border-box;
+}
+.navbar-header {
+	width: 100%;
+}
+.brand-name {
+	color: white;
+	font-size: 60px !important;
+}
+.header {
+	background: #495464 !important;
+	padding-top: 75px;	
+	height: 250px;
+}
+.dropdown-toggle {
+	color: white;
+}
+.dropdown {
+	width: 20% !important;
+}
+.navbar-header {
+
+	margin-left: 40px;	
+}
+.search {
+	float: left;
+	width: 80% !important; 
+}
